@@ -1,4 +1,4 @@
-# avFPG-ProteinGPTTransformer
+# avGFP-ProteinGPTTransformer
 # Fluorescent Protein Brightness Prediction and Optimization
 
 This repository contains the implementation for the paper **"Brightness prediction and optimization method of fluorescent protein based on ESM embedding and Transformer"**. The study proposes a novel computational framework that combines evolutionary scale language models (ESM) with Transformer architecture to predict and optimize the brightness of fluorescent protein mutants.
